@@ -1,9 +1,10 @@
 .panel{
     background-color: black;
-    display: flex
+    display: flex;
 }
 li{
     float: left;
-    margin: auto;
-    color: white
+    padding: 8px;
+    color: white;
+    list-style-type: none;
 }
