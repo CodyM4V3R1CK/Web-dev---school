@@ -1,0 +1,9 @@
+.panel{
+    background-color: black;
+    display: flex
+}
+.li{
+    float: left;
+    margin: auto;
+    color: white
+}
