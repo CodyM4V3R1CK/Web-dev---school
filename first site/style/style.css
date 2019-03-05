@@ -1,0 +1,40 @@
+.header{
+    background-color: orange;
+    color: white;
+    display: flex;
+    margin: 0;
+}
+.navigation{
+    background-color: grey;
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navigation>a:hover{   
+  background-color: #111;
+}
+.main{
+ background-color: antiquewhite;
+}
+.row{
+    display: flex;
+}
+.random>.first li{
+    display: inline;
+    background-color: purple;
+    padding: 4px 30px;
+}
+.random>.second li{
+    display: block;
+    background-color: violet;
+    padding: 4px 30px
+}
+.solid {
+    outline-style: solid;
+}
+.bottom{
+    background-color: silver;
+    position: bottom
+}
